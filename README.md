@@ -25,6 +25,9 @@ This project serves as both a technical and creative tool. From a technical pers
 Overall, this Neural Style Transfer project is a great mix of theory, creativity, and practical implementation. It gives users a hands-on opportunity to explore the fusion of art and AI, and produces visually stunning results from just a few lines of code. Whether you're a beginner learning about neural networks or a developer building creative tools, this project is an inspiring entry point into the world of AI-powered art.
 
 OUTPUT:
+<img width="698" height="610" alt="Image" src="https://github.com/user-attachments/assets/a6c67c2c-61ee-4029-8d5e-c66cc1b38335" />
+<img width="766" height="550" alt="Image" src="https://github.com/user-attachments/assets/b2451c24-2991-4500-9905-184062d92b53" />
+<img width="583" height="607" alt="Image" src="https://github.com/user-attachments/assets/410e3277-50ab-45d0-a216-e542434119eb" />
 
 
 
